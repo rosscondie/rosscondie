@@ -8,8 +8,10 @@
 - 🌍 I am from Scotland, living in Hannover, Germany. 
 
 
-<hr>
+
 #### Currently learning:
+
+<hr>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" height=50px /> &nbsp;
