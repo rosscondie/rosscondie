@@ -18,5 +18,7 @@
 
 #### Projects:
 
-- [Travel Bucket List App](https://github.com/rosscondie/Python_Flask_Project): Bucket list app to track travel adventures. Solo Project built with Python, HTML, CSS, Flask & PostrgreSQL
+- [Travel Bucket List App](https://github.com/rosscondie/Python_Flask_Project): Bucket list app to track travel adventures. Solo project built with Python, HTML, CSS, Flask & PostrgreSQL
+
+-[Atlas Wealth](https://github.com/rosscondie/Atlas_Wealth_Group_Project): Stocks and shares portfolio tracker app. Group project built with Javascript, React JS, Express, MongoDB & MaterialUI
 
