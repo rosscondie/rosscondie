@@ -1,15 +1,22 @@
+<div align="center">
+  
 ### Welcome  👋 I'm Ross
+  
+</div>
+
 
 #### About me:
+
 
 - 💻 I am currently studying on CodeClan's Professional Software Development course | SR12
 - 📚 I am interested in learning to code, photography and music.
 - 🎼 Previously I studied Sound Production and Music Technology.
 - 🌍 I am from Scotland, living in Hannover, Germany. 
 
-
-
-#### Currently learning:
+  
+<div align="center">
+  
+#### Currently learning
 
 <hr>
 
@@ -24,9 +31,10 @@
 <img hspace="5" height="50px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mocha/mocha-plain.svg">
 <hr>
 
-#### Projects:
+#### Projects
 
 - [Fugitive Travel](https://github.com/rosscondie/Python_Flask_Project) : Bucket list app to track travel adventures. Solo project built with Python, HTML, CSS, Flask & PostrgreSQL
 
 - [Atlas Wealth](https://github.com/rosscondie/Atlas_Wealth_Group_Project) : Stocks and shares portfolio tracker app. Group project built with Javascript, React JS, Express, MongoDB & MaterialUI
+  </div>
 
