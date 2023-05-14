@@ -8,7 +8,7 @@
 
   #### <ins>About me:</ins>
 
-<p> 💻 I am currently studying on CodeClan's Professional Software Development course | SR12 </p>
+<p> 💻 I am have recently graduated from CodeClan's Professional Software Development course | SR12 </p>
 <p>📚 I am interested in learning to code, photography and music. </p>
 <p>🎼 Previously I studied Sound Production and Music Technology. </p>
 <p> 🌍 I am from Scotland, living in Hannover, Germany. </p>
@@ -33,7 +33,9 @@
 
   #### <ins>Projects</ins>
 
+- [Uber Clone Capstone](https://github.com/rosscondie/UberClone_Capstone) : Uber Clone mobile app. Paired project built with JavaScript, React Native, Redux, React Navigation, React Maps & Tailwind CSS
+- [Atlas Wealth](https://github.com/rosscondie/Atlas_Wealth_Group_Project) : Stocks and shares portfolio tracker app. Group project built with JavaScript, React JS, Express, MongoDB & MaterialUI
 - [Fugitive Travel](https://github.com/rosscondie/Python_Flask_Project) : Bucket list app to track travel adventures. Solo project built with Python, HTML, CSS, Flask & PostrgreSQL
 
-- [Atlas Wealth](https://github.com/rosscondie/Atlas_Wealth_Group_Project) : Stocks and shares portfolio tracker app. Group project built with Javascript, React JS, Express, MongoDB & MaterialUI
+
 </div>
