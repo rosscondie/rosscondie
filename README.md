@@ -16,7 +16,7 @@
 
 
 
-  #### <ins>Currently learning</ins>
+  #### <ins>Whilst learning I have used the following technologies</ins>
 
 <hr>
 
