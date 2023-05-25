@@ -12,7 +12,7 @@
 ### Currently playing with:
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,linux)](https://skillicons.dev)
 
-#### Always inquisitive and willing to learn I have covered the following technologies:
+#### Always inquisitive and willing to learn so far I have covered the following technologies:
 <hr>
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,flask,git,java,spring,materialui,mongodb,nodejs,postgres,py,react,redux,tailwind&perline=8)](https://skillicons.dev)
