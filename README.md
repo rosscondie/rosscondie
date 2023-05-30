@@ -10,7 +10,7 @@
 <p> 🌍 I am from Scotland, living in Hannover, Germany. </p>
   
 ### Currently playing with:
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts)](https://skillicons.dev)
 
 #### Always inquisitive and willing to learn so far I have covered the following technologies:
 <hr>
