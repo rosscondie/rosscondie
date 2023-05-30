@@ -18,16 +18,12 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,express,flask,git,java,spring,materialui,mongodb,nodejs,postgres,py,react,redux,tailwind&perline=8)](https://skillicons.dev)
 <hr>
 
-  #### <ins>Projects</ins>
+### Projects I have worked on:
 
 - [Uber Clone Capstone](https://github.com/rosscondie/UberClone_Capstone) : Uber Clone mobile app. Paired project built with JavaScript, React Native, Redux, React Navigation, React Maps & Tailwind CSS
 - [Atlas Wealth](https://github.com/rosscondie/Atlas_Wealth_Group_Project) : Stocks and shares portfolio tracker app. Group project built with JavaScript, React JS, Express, MongoDB & MaterialUI
 - [Fugitive Travel](https://github.com/rosscondie/Python_Flask_Project) : Bucket list app to track travel adventures. Solo project built with Python, HTML, CSS, Flask & PostrgreSQL
-  
- <hr>
 
-![Ross's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosscondie&show_icons=true&theme=tokyonight&hide=stars)
-  
   
 </div>
 
