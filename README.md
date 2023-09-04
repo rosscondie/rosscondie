@@ -5,8 +5,8 @@
 ### About me:
 
 <p> 💻 I have recently graduated from CodeClan's Professional Software Development course | SR12 </p>
-<p>📚 I am interested in learning to code, photography and music. </p>
-<p>🎼 Previously I studied Sound Production and Music Technology. </p>
+<p>📚 I am interested in surfing, photography and music. </p>
+<p>🎼 Previously I studied Sound Engineering and Music Production/Technology. </p>
 <p> 🌍 I am from Scotland, living in Hannover, Germany. </p>
   
 ### Currently playing with:
