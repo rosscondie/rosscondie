@@ -39,13 +39,3 @@ Creating a remote group project @ [Chingu](https://www.chingu.io/)
 
 </div>
 
-<div align=center>
-  
-#### Naturally curious and eager to learn so far I have covered the following technologies:
-<hr>
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,express,flask,git,java,spring,materialui,mongodb,nodejs,postgres,py,react,redux,tailwind&perline=8)](https://skillicons.dev)
-
-<hr>  
-</div>
-
