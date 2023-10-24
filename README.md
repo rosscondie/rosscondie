@@ -22,7 +22,7 @@
 <div align="center">
         
 #### About me:
-Currently taking part in [HackerRank](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 30 Days of Code ! 4/30 ✅
+Currently taking part in [HackerRank](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 30 Days of Code ! 6/30 ✅
 
 Intern @ [CLIQup](https://www.cliqup.co/en) 
 
