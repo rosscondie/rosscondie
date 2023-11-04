@@ -22,11 +22,10 @@
 <div align="center">
         
 #### About me:
-Currently taking part in [HackerRank](https://www.hackerrank.com/domains/tutorials/30-days-of-code) 30 Days of Code ! 13/30 ✅
 
-Intern @ [CLIQup](https://www.cliqup.co/en) 
+Volunteer @ [CLIQup](https://www.cliqup.co/en)  
 
-Volunteering @ [Autonews.io](https://autonews.io/) expanding my knowledge of TypeScript & Next.js 
+Contributor to [Autonews.io](https://autonews.io/) 
 
 Creating a remote group project @ [Chingu](https://www.chingu.io/)
 
