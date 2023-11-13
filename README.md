@@ -23,11 +23,11 @@
         
 #### About me:
 
+Backend Engineering Intern (Platform & Operations) @ [rebuy](https://www.rebuy.de/)
+
 Volunteer @ [CLIQup](https://www.cliqup.co/en)  
 
 Contributor to [Autonews.io](https://autonews.io/) 
-
-Creating a remote group project @ [Chingu](https://www.chingu.io/)
 
 <br>
 <details><summary><b>My GitHub Stats and Streak</b></summary>
