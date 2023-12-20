@@ -25,8 +25,6 @@
 
 Backend Engineering Intern (Platform & Operations) @ [rebuy](https://www.rebuy.de/)
 
-Volunteer @ [CLIQup](https://www.cliqup.co/en)  
-
 Contributor to [Autonews.io](https://autonews.io/) 
 
 <br>
