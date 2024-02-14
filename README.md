@@ -27,12 +27,6 @@ Backend Engineering Intern (Platform & Operations) @ [rebuy](https://www.rebuy.d
 
 Contributor to [Autonews.io](https://autonews.io/) 
 
-<br>
-<details><summary><b>My GitHub Stats and Streak</b></summary>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=rosscondie&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" /></p>
-
-</details>
 
 </div>
 
