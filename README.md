@@ -1,32 +1,28 @@
 <h1 align='center'>
-  Hi there 👋 I'm Ross 👨‍💻
+  Hi there, I'm Ross 👋
 </h1>
 
 <p align='center'>
-  A software developer from Scotland.
+   <br> A software developer with a self driven attitute towards continuous learning and development. <br>
+   <br> Creative and passionate about modern web development. <br>
+   <br> I'm always eager to embrace new technologies and programming paradigms.  <br>
 </p>
 
-
-
-<p align='center'>
+<div align="center" >
   
-  <a href="https://www.linkedin.com/in/rosscondie/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-<a href="mailto:rosscondie@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    </p>
-
-<div align="center">
-        
-#### About me:
+#### 👨‍💻 About me:
 
 Backend Engineering Intern (Platform & Operations) @ [rebuy](https://www.rebuy.de/)
 
 Contributor to [Autonews.io](https://autonews.io/) 
 
+#### 🧮 What I'm currently learning:
+
+Angular | TypeScript | Kotlin
+
+#### 🌐 Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/rosscondie)
+[![Website](https://img.shields.io/badge/Website-Visit-brightgreen)](https://www.rosscondie.com)
 
 </div>
-
