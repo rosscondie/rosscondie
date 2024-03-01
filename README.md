@@ -18,7 +18,7 @@ Contributor to [Autonews.io](https://autonews.io/)
 
 #### 🧮 What I'm currently learning:
 
-Angular | TypeScript | Kotlin
+TypeScript | Kotlin
 
 #### 🌐 Connect with Me:
 
