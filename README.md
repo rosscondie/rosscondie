@@ -1,13 +1,6 @@
 <h1 align='center'>
   Hi there, I'm Ross 👋
 </h1>
-
-<p align='center'>
-   <br> A software developer with a self driven attitute towards continuous learning and development. <br>
-   <br> Creative and passionate about modern web development. <br>
-   <br> I'm always eager to embrace new technologies and programming paradigms.  <br>
-</p>
-
 <div align="center" >
   
 #### 👨‍💻 About me:
