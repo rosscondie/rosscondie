@@ -3,15 +3,9 @@
 </h1>
 <div align="center" >
   
-#### 👨‍💻 About me:
-
-Backend Engineering Intern (Platform & Operations) @ [rebuy](https://www.rebuy.de/)
-
-Contributor to [Autonews.io](https://autonews.io/) 
-
 #### 🧮 What I'm currently learning:
 
-TypeScript | Kotlin
+TypeScript 
 
 #### 🌐 Connect with Me:
 
