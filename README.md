@@ -5,9 +5,9 @@
   
 #### 🧮 Currently:
 
-I am learning Go and TypeScript. Playing with React, dabbling in Linux and trying to be cool enough to use Neovim.
+Learning Go and TypeScript. Playing with React and in my spare time learning about Linux.
 
-[![My Skills](https://skillicons.dev/icons?i=golang,ts,react,linux,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=golang,ts,react,linux)](https://skillicons.dev)
 
 
 #### 🌐 Connect with Me:
